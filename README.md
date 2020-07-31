@@ -1,6 +1,7 @@
 ## App Film Discover | Vitta Challenge
 
-[![](http://img.youtube.com/vi/5zQfovFjt8Y/0.jpg)](https://www.youtube.com/watch?v=5zQfovFjt8Y&feature=youtu.be&hd=1 "")
+![](Video.gif)
+
 
 ## Sobre a Vitta
 
