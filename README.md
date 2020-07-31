@@ -1,4 +1,4 @@
-## App Film Discover | Vitta Challenge
+## Solução para o desafio Vitta.
 
 ![](Video.gif)
 
